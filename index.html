@@ -9,36 +9,58 @@
     <script src="static/uikit-3.7.1/js/uikit.min.js"></script>
     <script src="static/uikit-3.7.1/js/uikit-icons.min.js"></script>
 
-    <link rel="stylesheet"href="static/highlight/styles/monokai-sublime.min.css">
+    <link rel="stylesheet" href="static/highlight/styles/monokai-sublime.min.css">
     <script src="static/highlight/highlight.min.js"></script>
-    <title>Momoの備忘録</title>
+    <title>Momoの自由研究</title>
     <link rel="icon" href="static/assets/favicon.ico">
   </head>
   <body>
     <header>
-
+      <nav>
+        <div>
+          <a href="index.html"><img src="static/assets/favicon.ico" alt="Momoの自由研究">Momoの自由研究</a>
+        </div>
+        <ul>
+          <li><a href="profile.html">Profile</a></li>
+          <li><a href="activities.html">Activities</a></li>
+          <li><a href="columns/index.html">Columns</a>
+            <div>
+              <ul>
+                <li><a href="https://physpeach.github.io/columns/cuda-tutorial/index.html">CUDA Tutorial</a></li>
+                <li><a href="https://physpeach.github.io/columns/concertina/index.html">Concertina</a></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="blogs/index.html">Blogs</a></li>
+        </ul>
+      </nav>
     </header>
-    <h1>
-      <a href="https://physpeach.github.io/">PhysPeach.github.io</a>
-    </h1>
-    <h1 id="physpeachs-portfolio">PhysPeach's Portfolio</h1>
-    <p><a href="https://physpeach.com">blog</a></p>
-    <p><a href="https://physpeach.github.io/cuda-tutorial">CUDA Tutorial</a></p>
+    <main>
+      <h1 id="physpeachs-portfolio">PhysPeach's Portfolio</h1>
+      <p><a href="https://physpeach.com">blog</a></p>
+      <p><a href="https://physpeach.github.io/cuda-tutorial">CUDA Tutorial</a></p>
 
-    <p>日本語はきれいですか</p>
+      <p>日本語はきれいですか</p>
 
-    <pre>
-      <code class="cpp">
+      <pre>
+        <code class="cpp">
 int main(){
   printf("hello");
   
   return 0;
 }
-      </code>
-    </pre>
+        </code>
+      </pre>
+    </main>
+    <footer>
+      <nav>
+        <ul>
+          <li>(c) physpeach</li>
+          <li><a href="https://github.com/physpeach/physpeach.github.io">Github</a></li>
+          <li><a href="https://github.com/physpeach/physpeach.github.io/commits/master">Changelog</a></li>
+        </ul>
+      </nav>
+    </footer>
   </body>
-  <footer>
-
-  </footer>
   <script>hljs.highlightAll();</script>
 </html>
