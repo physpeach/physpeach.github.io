@@ -8,26 +8,29 @@ description: Top page of
 - Name: Momo(Masato SHUKAWA)
 - Job: Image Processing Developer
 
-趣味はコンサティーナです。
+趣味はコンサティーナとスプラトゥーンです。
 
-More...
+[詳細はこちら](./profile.md)
 
 # Activities
-最近の活動などは[こちら](./#)
+これまでの活動をまとめています。
+
+[詳細はこちら](./activities.md)
 
 # Columns
-個人的に気になっているもののまとめ。
+個人的に気になっているものまとめ。
 
 - [CUDA Tutorial](https://physpeach.github.io/cuda-tutorial)
 - Molecular Dynamics
 - Concertina
 
 # Blogs
+日々の些細な気づきを綴ります。
+
 Coming Soon...
 
-```cpp
-int main(){
-  cout << "Hello world" << endl;
-  return 0;
-}
-```
+# Repository
+このブログはGithub Pagesを用いて書かれています。
+意見、不具合等ございましたら、以下のリポジトリにてissueを立てて報告してください。
+- [Github](https://github.com/physpeach/physpeach.github.io)
+- [Changelog](https://github.com/physpeach/physpeach.github.io/commits/master)
