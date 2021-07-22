@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{page.description}} Momo's web site.">
+    <link rel="stylesheet" href="static/uikit-3.7.1/css/uikit.min.css">
+    <link rel="stylesheet" href="static/jekyll-pygments-themes/monokai.css">
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="static/uikit-3.7.1/js/uikit.min.js"></script>
+    <script src="static/uikit-3.7.1/js/uikit-icons.min.js"></script>
+
+    <link rel="stylesheet" href="static/highlight/styles/monokai-sublime.min.css">
+    <title>{{ page.title }} | Momoの自由研究</title>
+    <link rel="icon" href="static/assets/favicon.ico">
+  </head>
+  <body>
+    <div class="body-container">
+      <header>
+        <nav class="uk-navbar-container" uk-navbar>
+          <div class="uk-navbar-left">
+            <a class="uk-navbar-item uk-logo uk-visible@s" href="index.html"><img src="static/assets/favicon.ico" alt="">Momoの自由研究</a>
+            <a class="uk-navbar-item uk-logo uk-hidden@s" href="index.html"><img src="static/assets/favicon.ico" alt="">Momoの<br>自由研究</a>
+          </div>
+          <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+              <li><a href="#">Profile</a></li>
+              <li><a href="#">Activities</a></li>
+              <li class="uk-parent"><a href="#">Columns</a>
+                <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                    <li><a href="https://physpeach.github.io/cuda-tutorial/index.html">CUDA Tutorial</a></li>
+                    <li><a href="#">Molecular Dynamics</a></li>
+                    <li><a href="#">Concertina</a></li>
+                  </ul>
+                </div>
+              </li>
+              <li><a href="#">Blogs</a></li>
+            </ul>
+            <div id="Menu" uk-offcanvas="flip: true" class="uk-offcanvas">
+              <div class="uk-offcanvas-bar">
+                <ul class="uk-nav">
+                  <li><a href="#">Profile</a></li>
+                  <li><a href="#">Activities</a></li>
+                  <li class="uk-parent"><a href="#">Columns</a>
+                  <li><a href="#">Blogs</a></li>
+                </ul>
+              </div>
+            </div>
+            <a class="uk-navbar-toggle uk-hidden@s" href="#" uk-toggle="target: #Menu">
+              <span class="uk-margin-small-right">Menu</span><span uk-navbar-toggle-icon></span>
+            </a>
+          </div>
+        </nav>
+      </header>
+      <main>
+        <div class="uk-container uk-container-large">
+          <article id="main_content" class="uk-article">
+            {{ content }}
+          </article>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
