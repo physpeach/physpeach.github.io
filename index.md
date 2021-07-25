@@ -4,18 +4,13 @@ title: Top
 description: Top page of 
 ---
 
-# Momo
+# Profile
 - Name: Momo(Masato SHUKAWA)
 - Job: Image Processing Developer
 
 趣味はコンサティーナとスプラトゥーンです。
 
 [詳細はこちら](./profile.md)
-
-# Activities
-これまでの活動をまとめています。
-
-[詳細はこちら](./activities.md)
 
 # Columns
 個人的に気になっているものまとめ。
