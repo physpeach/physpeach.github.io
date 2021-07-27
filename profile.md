@@ -52,8 +52,8 @@ description:
 他、`Sep. 09, 2019`: 株式会社OPTiM Summer Internship 2019 / webエンジニアコース(2weeks)
 
 ## Documents
-- `Feb. 15, 2021`: [修士論文発表「アニールを施したジャミング系」](https://drive.google.com/file/d/1J0cRaqSNpD77cV2a7ksEDtCvbdWcaUD2/view?usp=sharing)
-- `Jan. 19, 2021`: [修士論文「アニールを施したジャミング系」](https://drive.google.com/file/d/1Beq5fMAnmSn6BsK5CVzeBb497RuXSBHx/view?usp=sharing)
+- `Feb. 15, 2021`: [修士論文発表「アニールを施したジャミング系の大規模シミュレーション」](https://drive.google.com/file/d/1J0cRaqSNpD77cV2a7ksEDtCvbdWcaUD2/view?usp=sharing)
+- `Jan. 19, 2021`: [修士論文「アニールを施したジャミング系の大規模シミュレーション」](https://drive.google.com/file/d/1Beq5fMAnmSn6BsK5CVzeBb497RuXSBHx/view?usp=sharing)
 - `Nov. 04, 2020`: [進捗報告「Large-Scale Simulation of Annealed Jamming System」](https://drive.google.com/file/d/1hGS1XBTjYqO2oEeB_WnnJ2oxp7vKAJcH/view?usp=sharing)
 - `Jul. 01, 2020`: [論文紹介「Nonlinear Rheology of Thermal Annealed Jamming System」](https://drive.google.com/file/d/1I7z0g4la1BpqIO-mF6Ll2uw_85nVYs7H/view?usp=sharing)
 - `Feb. 20, 2020`: [中間発表会「Over-damped系の2Dガラスの緩和ダイナミクス」](https://drive.google.com/file/d/1UMkXqDoY1DD8k2w4tynUIfMZL185BlRO/view?usp=sharing)
@@ -61,6 +61,6 @@ description:
 - `Apr. 18, 2019`: [論文紹介「2 Dimensional Glass Transition」](https://drive.google.com/file/d/1G6AtqoRHDK4CW6vtewR4QmpLSS60-TD6/view?usp=sharing)
 - `Feb. 18, 2019`: [学部論文「2次元系のガラス転移」](https://drive.google.com/file/d/1GcEFb9Tl6dJ5yRhTS9oD0Fw7MOAN3Q8n/view?usp=sharing)
 
-## Community
+## Communities
 - [DCIM](https://disboard.org/ja/server/838671752065712158): アイルランド音楽コミュニティ管理人
 - [ProCon!](https://disboard.org/ja/server/827090738473992222): AtCoderプレイヤーのコミュニティ
