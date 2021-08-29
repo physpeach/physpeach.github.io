@@ -17,7 +17,7 @@ description: Top page of
 
 - [CUDA Tutorial](https://physpeach.github.io/cuda-tutorial)
 - Molecular Dynamics
-- Concertina
+- [Concertina](columns/concertina/index.md)
 
 # Blogs
 日々の些細な気づきを綴ります。
