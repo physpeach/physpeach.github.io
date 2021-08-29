@@ -10,7 +10,7 @@ description: Top page of
 
 趣味はコンサティーナとスプラトゥーンです。
 
-[詳細はこちら](./profile.md)
+[詳細はこちら](profile.md)
 
 # Columns
 個人的に気になっているものまとめ。
