@@ -4,7 +4,7 @@ title: Concertina
 description: これはコンサティーナについてまとめたページです。
 ---
 
-# コンサティーナのコラム
+# コンサティーナ
 ## コンサティーナとは？
 コンサティーナ(Concertina)とは、アコーディオンを小さくしたような可愛らしい楽器です。
 コンサティーナについて知りたい方、これから始めてみたい方、その他のコンサティーナに関わる全ての人の助けになれば幸いです。
@@ -40,7 +40,7 @@ description: これはコンサティーナについてまとめたページで�
 - [アイリッシュコンサーティーナにおける装飾音について](https://note.com/ryo_concertina/n/n8a0480033cf7): ryoさんのnote。
 
 ### その他の言語
-- [CONCERTINA.net](https://concertina.net/forums): コンサーティーナ専用のSNS。
+- [CONCERTINA.net](https://concertina.net/forums): コンサティーナ専用のSNS。
 - [McNeela Blog](https://blog.mcneelamusic.com/traditional-irish-musical-instruments/concertinas/): 楽器メーカー、McNeela社のブログ。
 - [Buttons & Blogs](https://www.irishconcertinalessons.com/blogs): Caitlinさんという名プレーヤーによるブログ。
 - [How I Do It](http://hmi.homewood.net/twitterzephyr/): [Bob Tedrow](https://video.aptv.org/video/bob-tedrow-hrr55j/)さんによるコンサティーナ製作エッセイ。
