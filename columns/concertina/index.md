@@ -7,6 +7,8 @@ description: これはコンサティーナについて知りたい方、これ�
 # コンサティーナ
 コンサティーナについて知りたい方、これから始めてみたい方、その他のコンサティーナに関わる全ての人の助けになれば幸いです。
 
+<div align="center"><img alt="Concertinaの写真" src="./img/APJ_concertina.jpg" width="400"></div>
+
 1. [コンサティーナ(Concertina)とは？](./about_concertina/01_introduction.md)
 1. 色々なコンサティーナ
 
