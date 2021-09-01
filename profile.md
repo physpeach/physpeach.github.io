@@ -22,7 +22,7 @@ description:
     - CSSにはUIKitを用いた。class名に`uk-`の修飾子が付いているのが良い。
 
 ## Hobbies
-- [コンサティーナ](https://www.youtube.com/watch?v=s9v2CRPwuRQ)
+- [コンサティーナ](./columns/concertina/index.md)
     - アコーディオンを小さく可愛くしたような楽器。
     - ケルト系の曲を演奏するのが好き。
     - 故障したら自分で修理もする。
