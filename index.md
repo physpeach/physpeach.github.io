@@ -10,14 +10,14 @@ description: Top page of
 
 趣味はコンサティーナとスプラトゥーンです。
 
-[詳細はこちら](profile.md)
+[詳細はこちら](./profile.md)
 
 # Columns
 個人的に気になっているものまとめ。
 
 - [CUDA Tutorial](https://physpeach.github.io/cuda-tutorial)
 - Molecular Dynamics
-- [Concertina](columns/concertina/index.md)
+- [Concertina](./columns/concertina/index.md)
 
 # Blogs
 日々の些細な気づきを綴ります。

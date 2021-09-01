@@ -26,4 +26,4 @@ description: コンサティーナ(Concertina)とは、アコーディオンを�
 
 ## Links
 - 次へ
-- [目次](../)
+- [目次](../index.md)
