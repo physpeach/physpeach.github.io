@@ -29,3 +29,20 @@ description: コンサティーナ(Concertina)とは、アコーディオンを�
 ## Links
 - 次へ
 - [目次](../index.md)
+
+## 関連、紹介
+[[1]] [コンサーティーナってどんな楽器][1]
+
+[[2]] [コンサーティーナ入門 FAQ \| Kato Toru][2]
+
+[[3]] [コンサーティーナの歴史 \| Concertina FAQ(和訳)][3]
+
+[[4]] [コンサーティーナ入門 \| nyalog][4]
+
+[[5]] [コンサーティーナ周辺を巡る旅][5]
+
+[1]: https://celtnofue.com/instrument/about_concertina.html
+[2]: https://www.isc.meiji.ac.jp/~katotoru/acco-concertina737.html
+[3]: https://concertinafaqjp.appspot.com/
+[4]: https://shiro-neko.net/blog/2021/03/08/introduction-to-concertina
+[5]: https://concertina.pinefield.asia//#index_id0
