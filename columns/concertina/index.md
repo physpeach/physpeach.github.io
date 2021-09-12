@@ -28,6 +28,16 @@ description: これはコンサティーナについて知りたい方、これ�
 - ボタンを押しても音が鳴らないときは？
 - 音の反応が遅い気がするときは？
 
+## コンサティーナと私
+- [これまで触ってきたコンサティーナ](./me/touch_feeling.md)
+
+### 連絡先
+私は主にTwitter上で活動しています。
+質問等ございましたら、こちらのアカウントのDMまでどうぞ！
+その時は、このサイトを見たことを伝えてくだされば励みになります。
+
+Twitter: [@ApjPeach](https://twitter.com/ApjPeach)
+
 ## 外部サイトの紹介
 コンサティーナについて調べる上で参考になりそうな外部サイトを紹介します。
 
@@ -51,11 +61,3 @@ description: これはコンサティーナについて知りたい方、これ�
 - [How I Do It](http://hmi.homewood.net/twitterzephyr/): [Bob Tedrow](https://video.aptv.org/video/bob-tedrow-hrr55j/)さんによるコンサティーナ製作エッセイ。
 - [Concertina Library](http://www.concertina.com): 資料集的な。
 - [Concertina Museum Collection](http://www.concertinamuseum.com/): アーカイブ的な。
-
-## コンサティーナと私
-### 連絡先
-私は主にTwitter上で活動しています。
-質問等ございましたら、こちらのアカウントのDMまでどうぞ！
-その時は、このサイトを見たことを伝えてくだされば励みになります。
-
-Twitter: [@ApjPeach](https://twitter.com/ApjPeach)
