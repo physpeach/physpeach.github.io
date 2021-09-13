@@ -9,7 +9,7 @@ description: これはコンサティーナについて知りたい方、これ�
 
 <div align="center"><img alt="Concertinaの写真" src="./img/APJ_concertina.jpg" width="400"></div>
 
-1. [コンサティーナ(Concertina)とは？](./about_concertina/01_introduction.md)
+1. [コンサティーナ(Concertina)とは？](./about/01_introduction.md)
 1. 色々なコンサティーナ
 
 ## コンサティーナのある暮らし
