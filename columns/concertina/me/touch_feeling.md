@@ -1,9 +1,9 @@
 # これまで触ってきたコンサティーナ
-私は2020年の夏からコンサティーナを演奏しています。
+僕は2020年の夏からコンサティーナを演奏しています。
 現在までに、自分で買ったり色んな人と交流したりして、いくつかのコンサティーナに触れてきました。
 
-ここでは、今日まで触ってきたアングロコンサティーナに対する感触を、演奏のしやすさや音色を踏まえてざっくりと分類してまとめました。
-ギターをやっている知人に、ギターでいうとこのくらいの値段かな？というのも聞いたので、そちらも参考程度に見てください。
+ここでは、今日まで触ってきたアングロコンサティーナに対する感触を、演奏のしやすさや音色などを総合的に踏まえてざっくりと分類してまとめました。
+ギターが上手な友人に、ギターでいうとこのくらいの値段かな？というのも聞いたので、そちらも参考程度に見てください。
 
 また、紹介の欄にイングリッシュ含め他の奏者がいろんなコンサティーナを触った感触について言及しているページを載せました。
 
@@ -12,8 +12,8 @@
 この価格帯のものは外観こそコンサティーナですが、弾きにくく、楽器としての寿命も短いものが多いです。
 一方値段は親切なので、コンサティーナをこれから続けるか否かわからない場合はこの価格帯から始め、2台目に中上位モデルのコンサティーナに進むのが良いと思います。
 
-### [【BASTARI】 B-1 (ダイアトニック式)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=123)
-- 区分: 入門
+### [B-1 (BASTARI)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=123)
+- アコーディオンリード
 - 操作感: 3/10
 - 音色: 2/10
 - コスパ: 2/10
@@ -28,8 +28,8 @@
 
 20ボタンなので、アイリッシュで弾けない曲がある。
 
-### [ケルトの笛屋さん Furze](https://celtnofue.com/items/detail.html?id=1323)
-- 区分: 入門
+### [Furze (ケルトの笛屋さん)](https://celtnofue.com/items/detail.html?id=1323)
+- アコーディオンリード
 - 操作感: 3/10
 - 音色: 3/10
 - コスパ: 3/10
@@ -55,8 +55,8 @@
 
 <div align="center"><img alt="Concertinaの写真" src="../img/WREN_concertina.jpg" width="400"><br>WREN(現Furze)</div>
 
-### [ノーブランドの中国製30ボタンアングロ](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=6101)
-- 区分: 入門
+### [中国製30ボタンアングロ (ノーブランド)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=6101)
+- アコーディオンリード
 - 操作感: 2/10
 - 音色: 2/10
 - コスパ: 1/10
@@ -68,8 +68,7 @@
 楽器の外観から構造に至るまで、Furzeとほとんど区別がつかない。
 また、演奏感、音色についてはFurzeを劣化させたようなものだと思ってほしい。
 
-### [【BASTARI】 W-15-MS (ダイアトニック式)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=4310)
-- 区分: 入門
+### [W-15-MS (BASTARI)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=4310)
 - アコーディオンリード
 - 操作感: 4/10
 - 音色: 3/10
@@ -92,24 +91,47 @@
 
 ## 下位モデル
 楽器の構造はしっかりとしてきているものの、リードに重たさが残り、素早い演奏をするには苦労しそうなものを下位モデルとしました。
+ギターで例えると数万円というところでしょうか。
 
-coming soon...
-- Shamrock(旧Swan)
+### [Shamrock (ケルトの笛屋さん)](https://celtnofue.com/items/detail.html?id=1324)
+- アコーディオンリード
+- 操作感: 5/10
+- 音色: 3/10
+- コスパ: 5/10
+- 結論: ゆったりとした曲を弾くならあり。
+
+コンサティーナ特有の構造を持つもっとも安価なモデルのひとつがShamrockだ。
+2台目として買うには力不足だが、1台目として買えばコンサティーナの醍醐味の一端を味わえると思う。
+
+この楽器は2021年夏まで、[McNeela社のSwan](https://mcneelamusic.com/concertinas/the-new-swan-30-button-anglo-concertina-in-c-g/)として売られていた。
+現在、ケルトの笛屋さんがOEMでShamrockとして販売している。
+これによって、機能面に差が殆どないまま11万円台に落ち、サポートも充実した。
+
+僕はSwanを、コンサティーナを始める2年前に友人に触らせてもらったことがあるのと、2021年の春にケルトの笛屋さんで展示されていたものを弾いたことがある。
+演奏感に移ると、リードに少し重さがあるものの、ゆったりとした演奏をする分には気にならない。
+Jigくらいなら僕の実力でも楽しく弾くことが出来た。
+また、ボタンは細いのとストロークが異様に深い、これはこのコンサティーナならではの気がする。
+
+ちょっと独特なモデルではあるものの、ここらへんから1台目として楽しむことができるのかなと思う。
+
+### その他
+弾いたことはありませんが、[Rochelle2 (Concertina Connection)](http://www.concertinaconnection.com/rochelle-2%20anglo.htm)、[Duckling (Flying Duck Concertinas)](https://www.flyingduckconcertinas.co.uk/ducklings.html)あたりは下位モデルに該当するのではないでしょうか？
 
 ## 中位モデル
 素早い演奏にも十分耐えるものと、演奏性に少し難があるが音色が良いものを中位モデルとしました。
-一生このモデルだけで演奏するには少し欠点が残ります。
+ただ、一生このモデルだけで演奏するには少し欠点が残ります。
+ギターで言えば10万円前後でしょうか。
 
 coming soon...
 - Phoenix
-- APJ
 - restoreされた20万円ほどのWheatstone
 
 ## 上位モデル
 一生モノと言えるものを上位モデルとしました。
 
 coming soon...
-- Clareman(?)
+- APJ
+- Clareman(現A. C. Norman & Co,)
 - The Irish Concertina Company Clare
 - The Irish Concertina Company Vintage
 - 戦前に製造されたWheatstone
