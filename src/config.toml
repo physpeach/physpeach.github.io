@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://physpeach.github.io/'
+languageCode = 'ja'
+defaultContent = 'ja'
+hasCJKLanguage = true
+title = 'Memomo'
+theme = "theer"
