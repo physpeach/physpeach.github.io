@@ -6,14 +6,14 @@ services:
     volumes:
       - '/etc/group:/etc/group:ro'
       - '/etc/passwd:/etc/passwd:ro'
-      - './src:/src'
+      - '.:/src'
   server:
     user: '${UID}:${GID}'
     image: 'klakegg/hugo:0.107.0-alpine'
     volumes:
       - '/etc/group:/etc/group:ro'
       - '/etc/passwd:/etc/passwd:ro'
-      - './src:/src'
+      - '.:/src'
     ports:
       - '${PORT}:${PORT}'
     command: 'server'
