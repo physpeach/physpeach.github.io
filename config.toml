@@ -14,6 +14,8 @@ pygmentsUseClasses = true
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy;physpeach 2023"
 
+publishDir = "docs"
+
 [frontmatter]
 # update sitemap.xml's lastmod datetime by file change time, instead of git.
 lastmod = ["lastmod", ":fileModTime", ":default"]
@@ -30,5 +32,3 @@ math = true
 
 shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = true
-
-publishDir = "docs"
