@@ -47,7 +47,7 @@ Twitter: [@PhysPeach](https://twitter.com/PhysPeach)
 コンサティーナについて調べる上で参考になりそうな外部サイトを紹介します。
 
 ### 日本語
-- [Concertina FAQ(和訳)](https://concertinafaqjp.appspot.com/): くろやぎさんが[Concertina FAQ](https://concertina.info)を訳したもの。
+- [Concertina FAQ(和訳)](http://concertina.music.coocan.jp/faq/): くろやぎさんが[Concertina FAQ](https://concertina.info)を訳したもの。
 - [コンサーティーナ入門 \| nyalog](https://shiro-neko.net/blog/2021/03/08/introduction-to-concertina): にゃさんはイングリッシュコンサティーナの奏者。
 - [コンサーティーナ入門 \| Kato Toru](https://www.isc.meiji.ac.jp/~katotoru/acco-concertina.html): KATO Toruさんは多分日本で一番普及活動をしてる。
 - [コンサーティーナ周辺を巡る旅](https://concertina.pinefield.asia/): geneさんが幅広く紹介してる。
