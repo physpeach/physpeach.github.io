@@ -4,6 +4,7 @@ services:
     user: '${UID}:${GID}'
     image: 'klakegg/hugo:0.107.0-alpine'
     volumes:
+      - '/etc/localtime:/etc/localtime:ro'
       - '/etc/group:/etc/group:ro'
       - '/etc/passwd:/etc/passwd:ro'
       - '.:/src'
@@ -11,6 +12,7 @@ services:
     user: '${UID}:${GID}'
     image: 'klakegg/hugo:0.107.0-alpine'
     volumes:
+      - '/etc/localtime:/etc/localtime:ro'
       - '/etc/group:/etc/group:ro'
       - '/etc/passwd:/etc/passwd:ro'
       - '.:/src'
