@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theer on Memomo</title>
+    <link>https://physpeach.github.io/tags/theer/</link>
+    <description>Recent content in Theer on Memomo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy;physpeach 2023</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 17:49:12 +0000</lastBuildDate><atom:link href="https://physpeach.github.io/tags/theer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ついにブログを開設した</title>
+      <link>https://physpeach.github.io/blog/20230216_0/</link>
+      <pubDate>Wed, 15 Feb 2023 17:49:12 +0000</pubDate>
+      
+      <guid>https://physpeach.github.io/blog/20230216_0/</guid>
+      <description>2019年にこのサイトを立ち上げてからずっとBlogを作ろう、作ろうと後回しにしていた。 2023年、実に4年越しにこれが実現した。(めんどく</description>
+    </item>
+    
+  </channel>
+</rss>

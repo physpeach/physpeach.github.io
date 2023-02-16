@@ -6,6 +6,25 @@
     <description>Recent content in Tags on Memomo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>&amp;copy;physpeach 2023</copyright><atom:link href="https://physpeach.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;physpeach 2023</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 17:49:12 +0000</lastBuildDate><atom:link href="https://physpeach.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://physpeach.github.io/tags/hugo/</link>
+      <pubDate>Wed, 15 Feb 2023 17:49:12 +0000</pubDate>
+      
+      <guid>https://physpeach.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theer</title>
+      <link>https://physpeach.github.io/tags/theer/</link>
+      <pubDate>Wed, 15 Feb 2023 17:49:12 +0000</pubDate>
+      
+      <guid>https://physpeach.github.io/tags/theer/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
