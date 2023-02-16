@@ -11,7 +11,7 @@ keywords:
 コンサティーナ(Concertina)とは、アコーディオンを小さくしたような可愛らしい蛇腹楽器です。
 主にアイルランドの伝統音楽で用いられてきました。
 
-<div align="center"><img alt="Concertinaの写真" src="../img/APJ_concertina.jpg" width="400"></div>
+{{<figure src="/images/APJ_concertina.jpg" class="center" alt="Concertinaの写真" width="400" >}}
 
 見ると、たくさんのボタンがほぼ左右対称に並んでいるのが見えます。
 これらのボタンを押しながら蛇腹を動かすと、ハーモニカっぽいようなアコーディオンっぽいような温かみのある音が出るんです。
