@@ -21,7 +21,7 @@ keywords:
 
 - [CUDA Tutorial](https://physpeach.github.io/cuda-tutorial)
 - Molecular Dynamics
-- [Concertina](columns/concertina)
+- [Concertina](concertina)
 
 ## Repository
 このブログはGithub Pagesを用いて書かれています。
