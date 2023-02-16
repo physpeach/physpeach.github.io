@@ -14,22 +14,30 @@ weight: 1
 - Job: Software Engineer
 
 ## 趣味
-- [コンサティーナ](/concertina)
-    - アコーディオンを小さく可愛くしたような楽器。
-    - ケルト系の曲を演奏するのが好き。
-    - 故障したら自分で修理もする。
-    - Caitlin Nic Gabhannさんが好き。
-- サウルハープ
-    - Feb. 2023に血迷って28弦のハープを購入した。
-- Irish Traditional Music
-    - 高田馬場にある[2ND HALF](https://www.instagram.com/2ndhalf_britishpub/)にてセッションホストを担当。
-        - 日時: 2/24(Fri.) 19 ~ 22:00
-            - 今のところ毎月2回開催中!!!
-        - 興味がございましたら[@PhysPeach](https://twitter.com/PhysPeach)までご連絡ください。
-    - オンラインコミュニティの管理人。[DCIM](https://disboard.org/ja/server/838671752065712158)
+- 楽器演奏
+    - [Instagram](https://www.instagram.com/physpeach/)
+    - [コンサティーナ](/concertina)
+        - Jun. 2020あたりから始めた。
+        - Mary MacNamara推し。
+    - サウルハープ
+        - Feb. 2023に血迷って28弦のハープを購入した。
+        - [Michael Rooney](https://www.youtube.com/watch?v=ZZmFhsy8QSU)がきっかけ。
 - Splatoon
-    - 友人とオンラインチャットしながら遊ぶ。
-    - [甲子園](https://www.nintendo.co.jp/splatoon/koshien2023/index.html)にでたい。
+    - 友人とオンラインチャットして遊んでます。
+    - [甲子園](https://www.nintendo.co.jp/splatoon/koshien2023/index.html)に出てみたい。
+
+## Irish Traditional Music Session
+高田馬場のブリティッシュパブにてセッションホストを担当しております。
+- 日時: 2/24(Fri.) 19 ~ 22:00
+    - 今のところ毎月2回開催中!!!
+- 場所: [British Pub 2ND HALF](https://goo.gl/maps/27XqF8UKWmkXboDN9)
+- 2オーダー制
+- 多い年齢層: 20 ~ 40代
+- 初心者も経験者も大歓迎！
+
+興味がございましたら、[@PhysPeach](https://twitter.com/PhysPeach)までご連絡ください。
+
+{{<figure src="/images/2nd_half_session.jpg" title="2ND HALFでのセッション" alt="パブでのセッションの写真" width="400">}}
 
 ## リンク
 - [Github](https://github.com/physpeach)
@@ -57,5 +65,4 @@ weight: 1
 - `Feb. 18, 2019`: [学部論文「2次元系のガラス転移」](https://drive.google.com/file/d/1GcEFb9Tl6dJ5yRhTS9oD0Fw7MOAN3Q8n/view?usp=sharing)
 
 ## 所属コミュニティ
-- [DCIM](https://disboard.org/ja/server/838671752065712158): アイルランド音楽コミュニティ管理人
 - [ProCon!](https://disboard.org/ja/server/827090738473992222): AtCoderプレイヤーのコミュニティ
