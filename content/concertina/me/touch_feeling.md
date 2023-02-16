@@ -73,7 +73,7 @@ keywords:
 
 6万円台だったWREN時代は、もう少しお金を出して30ボタン以上のBASTARIを買いなさい、と諭すところだったが、4万円台ならいいかもしれない。
 
-<div align="center"><img alt="Concertinaの写真" src="../img/WREN_concertina.jpg" width="400"><br>WREN(現Furze)</div>
+{{<figure src="/images/WREN_concertina.jpg" alt="Concertinaの写真" width="400">}}
 
 ### [中国製30ボタンアングロ (ノーブランド)](https://shop.taniguchi-gakki.jp/products/detail.php?product_id=6101)
 - アコーディオンリード
@@ -228,20 +228,9 @@ Anthonyさんに直接注文すると6ヶ月くらいかかると言われたが
 
 まとめると、APJはポテンシャルを存分に発揮するためには微調整が必要であるものの、値段の割に品質が大変よく、1-2台目のコンサティーナとして強くおすすめする。
 
-<div align="center">
-    <div>
-        <img alt="Concertinaの写真" src="../img/APJ_concertina.jpg" width="400">
-        <br>APJ。ボタンに赤いフェルトを巻く改造をした。
-    </div>
-    <div>
-        <img alt="Concertinaの写真" src="../img/APJ_action.jpg" width="400">
-        <br>アクション部分。非常に精巧。
-    </div>
-    <div>
-        <img alt="Concertinaの写真" src="../img/APJ_reeds.jpg" width="400">
-        <br>voci Armoniche社のTipo A Manoリードが使われている。
-    </div>
-</div>
+{{<figure src="/images/APJ_concertina.jpg" alt="Concertinaの写真" title="APJ。ボタンに赤いフェルトを巻く改造をした。" width="400">}}
+{{<figure src="/images/APJ_action.jpg" alt="Concertinaの写真" title="アクション部分。非常に精巧。" width="400">}}
+{{<figure src="/images/APJ_reeds.jpg" alt="Concertinaの写真" title="voci Armoniche社のTipo A Manoリードが使われている。" width="400">}}
 
 ### Wheatstone
 - コンサティーナリード

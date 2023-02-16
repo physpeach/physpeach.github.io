@@ -12,7 +12,7 @@ weight: 2
 
 コンサティーナについて知りたい方、これから始めてみたい方、その他のコンサティーナに関わる全ての人の助けになれば幸いです。
 
-<div align="center"><img alt="Concertinaの写真" src="img/APJ_concertina.jpg" width="400"></div>
+{{<figure src="/images/APJ_concertina.jpg" class="center" alt="Concertinaの写真" width="400" >}}
 
 1. [コンサティーナ(Concertina)とは？](about/01_introduction)
 1. 色々なコンサティーナ
