@@ -19,15 +19,15 @@ weight: 1
     - [コンサティーナ](/concertina)
         - Jun. 2020あたりから始めた。
         - Mary MacNamara推し。
-    - サウルハープ
+    - ラップハープ
         - Feb. 2023に血迷って28弦のハープを購入した。
         - [Michael Rooney](https://www.youtube.com/watch?v=ZZmFhsy8QSU)がきっかけ。
 - Splatoon
-    - 友人とオンラインチャットして遊んでます。
+    - よく友達とオンラインで遊ぶ。
     - [甲子園](https://www.nintendo.co.jp/splatoon/koshien2023/index.html)に出てみたい。
 
 ## Irish Traditional Music Session
-高田馬場のブリティッシュパブにてセッションホストを担当しております。
+高田馬場のブリティッシュパブにてセッションホストをしております。
 - 日時: 2/24(Fri.) 19 ~ 22:00
     - 今のところ毎月2回開催中!!!
 - 場所: [British Pub 2ND HALF](https://goo.gl/maps/27XqF8UKWmkXboDN9)
@@ -38,10 +38,6 @@ weight: 1
 興味がございましたら、[@PhysPeach](https://twitter.com/PhysPeach)までご連絡ください。
 
 {{<figure src="/images/2nd_half_session.jpg" title="2ND HALFでのセッション" alt="パブでのセッションの写真" width="400">}}
-
-## リンク
-- [Github](https://github.com/physpeach)
-- [AtCoder](https://atcoder.jp/users/PhysPeach)
 
 ## 経歴
 
@@ -63,6 +59,13 @@ weight: 1
 - `Nov. 14, 2019`: [進捗報告「Optimization of MD Simulation」](https://drive.google.com/file/d/1Yl9DkAypthPwrB2JWMQwQWSZgM6WYZIT/view?usp=sharing)
 - `Apr. 18, 2019`: [論文紹介「2 Dimensional Glass Transition」](https://drive.google.com/file/d/1G6AtqoRHDK4CW6vtewR4QmpLSS60-TD6/view?usp=sharing)
 - `Feb. 18, 2019`: [学部論文「2次元系のガラス転移」](https://drive.google.com/file/d/1GcEFb9Tl6dJ5yRhTS9oD0Fw7MOAN3Q8n/view?usp=sharing)
+
+## リンク
+- [Instagram](https://www.instagram.com/physpeach/)
+- [Twitter](https://www.twitter.com/PhysPeach)
+- [Facebook](https://www.facebook.com/masato.shukawa/)
+- [Github](https://github.com/physpeach)
+- [AtCoder](https://atcoder.jp/users/PhysPeach)
 
 ## 所属コミュニティ
 - [ProCon!](https://disboard.org/ja/server/827090738473992222): AtCoderプレイヤーのコミュニティ

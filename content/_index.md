@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: "Home"
 date: 2023-02-15T16:58:46Z
 description: ""
 draft: false
@@ -7,6 +7,8 @@ categories:
 tags:
 keywords:
 ---
+
+ノートの片隅にある余白のような場所にします。
 
 ## Profile
 - Name: Momo(Masato SHUKAWA)
@@ -17,8 +19,7 @@ keywords:
 [詳細はこちら](profile)
 
 ## Columns
-個人的に気になっているものまとめ。
-
+個人的に気になっているもの。
 - [CUDA Tutorial](https://physpeach.github.io/cuda-tutorial)
 - Molecular Dynamics
 - [Concertina](concertina)
@@ -29,4 +30,4 @@ keywords:
 - [Github](https://github.com/physpeach/physpeach.github.io)
 - [Changelog](https://github.com/physpeach/physpeach.github.io/commits/master)
 
-## New Posts
+## Posts
