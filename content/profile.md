@@ -28,7 +28,7 @@ weight: 1
 
 ## Irish Traditional Music Session
 高田馬場のブリティッシュパブにてセッションホストをしております。
-- 日時: 2/24(Fri.) 19 ~ 22:00
+- 日時: 4/14(Fri.) 19 ~ 22:00
     - 今のところ毎月2回開催中!!!
 - 場所: [British Pub 2ND HALF](https://goo.gl/maps/27XqF8UKWmkXboDN9)
 - 2オーダー制
