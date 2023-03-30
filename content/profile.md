@@ -34,8 +34,9 @@ weight: 1
 - 2オーダー制
 - 多い年齢層: 20 ~ 40代
 - 初心者も経験者も大歓迎！
+- リスナーも大歓迎！
 
-興味がございましたら、[@PhysPeach](https://twitter.com/PhysPeach)までご連絡ください。
+興味がございましたら、[ガイドライン](https://docs.google.com/document/d/e/2PACX-1vQM8Drih2VbPc3Zq09IUdBuJaMs_j3V77hk8zxWENTctn1WYFyeXbvPPj57fiMdQTXJKOKKJF-d-2n1/pub)を一読の上、[@PhysPeach](https://twitter.com/PhysPeach)までご連絡ください。
 
 {{<figure src="/images/2nd_half_session.jpg" title="2ND HALFでのセッション" alt="パブでのセッションの写真" width="400">}}
 
