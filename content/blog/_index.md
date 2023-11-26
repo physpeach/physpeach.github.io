@@ -6,6 +6,4 @@ draft: false
 categories:
 tags:
 keywords:
-menu: "main"
 ---
-

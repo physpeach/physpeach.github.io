@@ -1,0 +1,53 @@
+# Hugo configuration file
+title: Memomo
+
+theme: hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Contents
+      pageRef: /contents
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: Profile
+      pageRef: /profile
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/physpeach"
+      params:
+        icon: github
+    - name: Twitter
+      weight: 6
+      url: "https://twitter.com/physpeach"
+      params:
+        icon: twitter
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+
+  editURL:
+    enable: true
+    base: "https://github.com/physpeach/physpeach.github.io/edit/master/content"

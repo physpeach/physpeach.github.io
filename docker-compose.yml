@@ -1,8 +1,12 @@
 version: '3'
 services:
-  hugo:
+  builder:
+    build: '.'
+    image: 'gh-pages:latest'
+    command: 'version'
+  generator:
     user: '${UID}:${GID}'
-    image: 'klakegg/hugo:0.107.0-alpine'
+    image: 'gh-pages:latest'
     volumes:
       - '/etc/localtime:/etc/localtime:ro'
       - '/etc/group:/etc/group:ro'
@@ -10,7 +14,7 @@ services:
       - '.:/src'
   server:
     user: '${UID}:${GID}'
-    image: 'klakegg/hugo:0.107.0-alpine'
+    image: 'gh-pages'
     volumes:
       - '/etc/localtime:/etc/localtime:ro'
       - '/etc/group:/etc/group:ro'

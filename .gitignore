@@ -1,3 +1,5 @@
 .env
 .hugo_build.lock
+go.sum
 public/
+resources/
