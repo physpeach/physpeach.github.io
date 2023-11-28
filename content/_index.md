@@ -8,7 +8,8 @@ tags:
 keywords:
 ---
 
-ノートの片隅にある余白のような場所にします。
+ようこそ、Memomo へ
+
 {{< cards >}}
 {{< card link="docs" title="Docs" icon="book-open" >}}
 {{< card link="blog" title="Blog" icon="book-open" >}}

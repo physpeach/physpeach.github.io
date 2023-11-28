@@ -7,3 +7,7 @@ categories:
 tags:
 keywords:
 ---
+
+ノートの片隅にある余白のような場所にします。
+
+## Latest Posts
