@@ -19,6 +19,13 @@ keywords:
 
 このブログは Github Pages を用いて書かれています。
 意見、不具合等ございましたら、以下のリポジトリにて issue を立てて報告してください。
+{{< cards >}}
+{{< card link="https://github.com/physpeach/physpeach.github.io" title="Memomo" icon="github" >}}
+{{< /cards >}}
 
-- [Github](https://github.com/physpeach/physpeach.github.io)
-- [Changelog](https://github.com/physpeach/physpeach.github.io/commits/master)
+### テーマの紹介
+
+このブログは Hextra と呼ばれるテーマを用いています。
+{{< cards >}}
+{{< card link="https://github.com/imfing/hextra" title="Hextra" icon="github" >}}
+{{< /cards >}}
