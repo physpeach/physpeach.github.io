@@ -15,10 +15,11 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 # Default to bash
 defaults:
@@ -33,13 +34,17 @@ jobs:
       HUGO_VERSION: 0.117.0
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          submodules: recursive
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.21.2"
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.117.0"
+          hugo-version: "0.120.4"
           extended: true
       - name: Build with Hugo
         env:
@@ -49,7 +54,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+            --baseURL "https://${{ github.repository_owner }}.github.io"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
@@ -65,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
