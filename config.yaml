@@ -16,8 +16,8 @@ markup:
 
 menu:
   main:
-    - name: Contents
-      pageRef: /contents
+    - name: Docs
+      pageRef: /docs
       weight: 1
     - name: Blog
       pageRef: /blog
