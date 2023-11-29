@@ -8,6 +8,7 @@ tags: [""]
 keywords:
 cascade:
   type: docs
+next: introduction
 ---
 
 ## 概要
@@ -51,3 +52,5 @@ cascade:
 予めご了承頂きたい。
 
 ## 目次
+
+1. [導入](introduction)
