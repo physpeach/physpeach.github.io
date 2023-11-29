@@ -11,6 +11,7 @@ cascade:
 weight: 1
 math: true
 prev: supercooled_liquids_for_pedestrians
+next: preliminaries
 ---
 
 2007 年 3 月、私は Weizmann 研究所に招かれ、過冷却液体とガラス転移の物理学について入門講義を行った。
