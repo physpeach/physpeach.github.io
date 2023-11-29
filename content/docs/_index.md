@@ -14,5 +14,5 @@ keywords:
 {{< card link="https://sites.google.com/view/2nd-half-session" title="Irish Trad. Session" icon="music-note" >}}
 {{< card link="https://physpeach.github.io/cuda-tutorial" title="CUDA Tutorial" icon="code" >}}
 {{< card link="concertina" title="Concertina" icon="music-note" >}}
-{{< card link="supercooled_liquids_for_pedestrians" title="Supercooled liquids for pedestriansの邦訳" icon="newspaper" >}}
+{{< card link="supercooled_liquids_for_pedestrians" title="初学者のための過冷却液体(邦訳)" icon="newspaper" >}}
 {{< /cards >}}

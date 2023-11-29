@@ -1,5 +1,5 @@
 ---
-title: "Supercooled liquids for pedestriansの邦訳"
+title: "初学者のための過冷却液体"
 date: 2023-11-29T03:20:51+09:00
 description:
 draft: false
