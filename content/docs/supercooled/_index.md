@@ -55,4 +55,4 @@ next: introduction
 
 1. [導入](introduction)
 1. [前提となる知識](preliminaries)
-   1. [剪断緩和時間と粘性](preliminaries/shear_relaxation_time_and_viscosity)
+   1. [剪断緩和時間と粘性](preliminaries/shear_viscosity)

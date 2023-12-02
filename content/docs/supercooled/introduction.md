@@ -10,7 +10,7 @@ cascade:
   type: docs
 weight: 1
 math: true
-prev: supercooled_liquids_for_pedestrians
+prev: supercooled
 next: preliminaries
 ---
 

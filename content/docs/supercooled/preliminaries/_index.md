@@ -11,7 +11,7 @@ cascade:
 weight: 2
 math: true
 prev: introduction
-next: shear_relaxation_time_and_viscosity
+next: shear_viscosity
 ---
 
 過冷却液体のノートは、液体とは何かという定義から始めるのが良いだろう。
