@@ -105,21 +105,21 @@ $$
 適用した剪断が$t<0$でゼロ、$t>0$で非ゼロとすると、下の式のように積分することで応力を得ることができる。
 
 $$
-\sigma_{xy}(t)=\int_0^tdt^\prime G(t-t^\prime)\dot\gamma(t^\prime) \tag{9}
+\sigma_{xy}(t)=\int_0^tdt^\prime\ G(t-t^\prime)\dot\gamma(t^\prime) \tag{9}
 $$
 
 この式では時間依存性を持つ剪断弾性率$G$は記憶関数としての役割を持つ。
 特によくあるケースとして、$\dot\gamma=\rm{const}$のとき、式(9)は次の形になる。
 
 $$
-\sigma_{xy}(t)=\dot\gamma\int_0^tds G(s) \tag{10}
+\sigma_{xy}(t)=\dot\gamma\int_0^tds\ G(s) \tag{10}
 $$
 
 通常の液体では、剪断緩和関数$G(s)$は$1/s$よりも速く減衰し(補足: $t > 0$領域で積分しても発散しない)、$t\to\infty$の領域で線形剪断歪みに対して、一定の応力を発生させる。
 線形剪断歪みに対する応力の割合を粘性$\eta$と定義し、以下の式を得る。
 
 $$
-\sigma_{xy}=\eta\dot\gamma,\quad\eta=\int_0^\infty dsG(s) \tag{11}
+\sigma_{xy}=\eta\dot\gamma,\quad\eta=\int_0^\infty ds\ G(s) \tag{11}
 $$
 
 式(6)のような Maxwell モデルについては、式(11)を解けて下の式を得る。
