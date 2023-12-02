@@ -122,7 +122,7 @@ $$
 \sigma_{xy}=\eta\dot\gamma,\quad\eta=\int_0^\infty dsG(s) \tag{11}
 $$
 
-式(6)のような Maxwell 液体については、式(11)を解けて下の式を得る。
+式(6)のような Maxwell モデルについては、式(11)を解けて下の式を得る。
 
 $$
 \eta=G_\infty\tau_R\tag{12}
