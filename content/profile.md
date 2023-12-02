@@ -9,7 +9,7 @@ keywords:
 ---
 
 - Name: Masato SHUKAWA(Momo)
-- Job: Software Engineer
+- Job: Software Acceleration Engineer
 
 ## Irish Trad. Music Session
 
@@ -49,8 +49,10 @@ keywords:
 
 ## リンク
 
-- [Instagram](https://www.instagram.com/physpeach/)
-- [Twitter](https://www.twitter.com/physpeach)
-- [Facebook](https://www.facebook.com/masato.shukawa/)
-- [Github](https://github.com/physpeach)
-- [AtCoder](https://atcoder.jp/users/PhysPeach)
+{{< cards >}}
+{{< card link="https://instagram.com/physpeach" title="Instagram" icon="instagram" >}}
+{{< card link="https://x.com/physpeach" title="Twitter" icon="twitter" >}}
+{{< card link="https://facebook.com/masato.shukawa" title="Facebook" icon="facebook" >}}
+{{< card link="https://github.com/physpeach" title="Github" icon="github" >}}
+{{< card link="https://atcoder.jp/users/physpeach" title="AtCoder" icon="code" >}}
+{{< /cards >}}
