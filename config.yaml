@@ -50,11 +50,23 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
+    logo:
+      path: "favicon-64.png"
 
   footer:
     displayCopyright: true
     displayPoweredBy: true
 
+  search:
+    enable: true
+    type: "flexsearch"
+    flexsearch:
+      index: content
+
   editURL:
     enable: true
     base: "https://github.com/physpeach/physpeach.github.io/edit/master/content"
+
+  blog:
+    list:
+      displayTags: true
