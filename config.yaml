@@ -4,6 +4,8 @@ title: Memomo
 # import hextra as module
 theme: hextra
 
+googleAnalytics: "G-HNH6BD1J9W"
+
 defaultContentLanguage: ja
 languages:
   ja:
