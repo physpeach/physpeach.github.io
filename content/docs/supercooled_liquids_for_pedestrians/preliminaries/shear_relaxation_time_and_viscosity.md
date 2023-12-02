@@ -60,7 +60,7 @@ $$
 系が平衡状態にあり、時間並進対称性(TTI: time-translation invariance)が成立し、線形領域であれば、式(4)を次の式で一般化できる。
 
 $$
-\sigma_{xy}=G(t^{\prime\prime}-t\prime)\gamma \tag{5}
+\sigma_{xy}=G(t^{\prime\prime}-t^\prime)\gamma \tag{5}
 $$
 
 ただし、$G(t-t^\prime)$は時間依存する剪断弾性率である(線形応答緩和関数、あるいは線形ステップ歪み関数とも呼ぶ)。
