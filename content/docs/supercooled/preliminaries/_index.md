@@ -24,5 +24,5 @@ next: shear_viscosity
 拡散と Langevin 方程式については、\[[17](https://ar5iv.labs.arxiv.org/html/0903.4264#bib.bib17)\] を参照されたい。
 
 {{< cards >}}
-{{< card link="shear_relaxation_time_and_viscosity" title="剪断緩和時間と粘性" icon="newspaper" >}}
+{{< card link="shear_viscosity" title="剪断緩和時間と粘性" icon="newspaper" >}}
 {{< /cards >}}
