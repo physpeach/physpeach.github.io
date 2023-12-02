@@ -25,4 +25,5 @@ next: shear_viscosity
 
 {{< cards >}}
 {{< card link="shear_viscosity" title="剪断緩和時間と粘性" icon="newspaper" >}}
+{{< card link="diffusion" title="拡散係数と Stokes-Einsteins則" icon="newspaper" >}}
 {{< /cards >}}

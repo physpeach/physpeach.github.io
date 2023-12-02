@@ -8,8 +8,10 @@ tags: [""]
 keywords:
 cascade:
   type: docs
+weight: 1
 math: true
 prev: preliminaries
+next: diffusion
 ---
 
 液体は流れ、固体は流れない。
