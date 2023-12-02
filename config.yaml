@@ -53,6 +53,9 @@ params:
     logo:
       path: "favicon-64.png"
 
+  page:
+    width: "wide"
+
   footer:
     displayCopyright: true
     displayPoweredBy: true
