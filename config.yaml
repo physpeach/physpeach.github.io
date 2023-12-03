@@ -74,4 +74,5 @@ params:
 
   blog:
     list:
+      displayCategories: true
       displayTags: true
