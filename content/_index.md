@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Memomo"
 date: 2023-02-15T16:58:46Z
 description: ""
 draft: false
@@ -8,12 +8,12 @@ tags:
 keywords:
 ---
 
-ようこそ、Memomo へ
+ありきたりな書き散らし。
 
 {{< cards >}}
-{{< card link="docs" title="Docs" icon="book-open" >}}
-{{< card link="blog" title="Blog" icon="book-open" >}}
-{{< card link="profile" title="Profile" icon="user" >}}
+{{< card link="docs" title="Docs" subtitle="体系立った書き散らし" icon="book-open" >}}
+{{< card link="blog" title="Blog" subtitle="自由律な書き散らし" icon="book-open" >}}
+{{< card link="profile" title="Profile" subtitle="私についての書き散らし" icon="user" >}}
 {{< /cards >}}
 
 ## Repository

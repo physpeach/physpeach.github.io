@@ -8,8 +8,9 @@ tags:
 keywords:
 ---
 
-- Name: Masato SHUKAWA(Momo)
-- Job: Software Acceleration Engineer
+{{<figure src="/images/profile.jpg" alt="Masato Shukawa" width="300">}}
+{{< icon name="user" attributes="height=1.2em">}}Masato SHUKAWA(Momo)  
+{{< icon name="briefcase" attributes="height=1.2em">}}Software Acceleration Engineer
 
 ## Irish Trad. Music Session
 
