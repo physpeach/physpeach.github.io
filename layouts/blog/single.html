@@ -8,15 +8,17 @@
         <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
         {{- if site.Params.blog.list.displayCategories -}}
           {{ with .Params.categories }}
+          {{ $cat_len := len .}}
             <p class="opacity-50 text-sm leading-7">
-            {{- range . }}<a class="inline-block mr-2">{{ partial "utils/icon.html" (dict "name" "folder" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{ . }}</a>{{ end -}}
+              {{ partial "utils/icon.html" (dict "name" "folder" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{- range $cat_i, $cat_e := . }}<a class="inline-block mr-2">{{ $cat_e }}{{if lt $cat_i $cat_len}}{{ else }},{{ end }}</a>{{ end -}}
             </p>
           {{ end -}}
         {{- end -}}
         {{- if site.Params.blog.list.displayTags -}}
           {{ with .Params.tags }}
+          {{ $tag_len := len .}}
             <p class="opacity-50 text-sm leading-7">
-              {{- range . }}<a class="inline-block mr-2">{{ partial "utils/icon.html" (dict "name" "tag" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{ . }}</a>{{ end -}}
+              {{ partial "utils/icon.html" (dict "name" "tag" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{- range $tag_i, $tag_e := . }}<a class="inline-block mr-2">{{ $tag_e }}{{if lt $tag_i $tag_len}},{{ end }}</a>{{ end -}}
             </p>
           {{ end -}}
         {{- end -}}
