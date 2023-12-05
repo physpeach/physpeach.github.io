@@ -12,8 +12,8 @@ keywords:
 
 {{< cards >}}
 {{< card link="docs" title="Docs" subtitle="体系立った書き散らし" icon="book-open" >}}
-{{< card link="blog" title="Blog" subtitle="自由律な書き散らし" icon="book-open" >}}
-{{< card link="profile" title="Profile" subtitle="私についての書き散らし" icon="user" >}}
+{{< card link="blog" title="Blog" subtitle="何でもありな書き散らし" icon="book-open" >}}
+{{< card link="profile" title="Profile" subtitle="僕についての書き散らし" icon="user" >}}
 {{< /cards >}}
 
 ## Repository

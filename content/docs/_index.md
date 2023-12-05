@@ -8,7 +8,7 @@ tags: [""]
 keywords:
 ---
 
-個人的に気になっているものについてある程度体系立てて書いています。
+個人的に気になっているものについて、ある程度体系立てて書いています。
 
 {{< cards >}}
 {{< card link="https://sites.google.com/view/2nd-half-session" title="Irish Trad. Session" icon="music-note" >}}
