@@ -14,7 +14,7 @@
               {{ with .Params.categories }}
                 {{ $cat_len := len .}}
                 <p class="opacity-50 text-sm leading-7">
-                  {{ partial "utils/icon.html" (dict "name" "folder" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{- range $cat_i, $cat_e := . }}<a class="inline-block mr-2">{{ $cat_e }}{{if lt $cat_i $cat_len}},{{ end }}</a>{{ end -}}
+                  {{ partial "utils/icon.html" (dict "name" "folder" "attributes" `height=1.2em class="inline-block mr-1"`) }}{{- range $cat_i, $cat_e := . }}<a class="inline-block mr-2">{{ $cat_e }}{{if ne (add $cat_i 1) $cat_len}},{{ end }}</a>{{ end -}}
                 </p>
               {{ end -}}
             {{- end -}}
