@@ -70,7 +70,7 @@ $$
 v(t)=e^{-\zeta t/m}v(0)+\int_0^tdt^\prime e^{-\zeta(t-t^\prime)/m} \eta(t^\prime)/m \tag{20}
 $$
 
-平均運動エネルギー$1/2m\langle v^2 \rangle$を数値計算し、エネルギー等分配則を用いることで、ノイズ項の振幅と温度の間に以下の関係があることがわかる。
+長時間極限の平均運動エネルギー$1/2m\langle v^2 \rangle$を数値計算し、エネルギー等分配則を用いることで、ノイズ項の振幅と温度の間に以下の関係があることがわかる。
 
 $$
 \langle \eta(t)\eta(t^\prime)\rangle=2\zeta k_BT\delta(t-t^\prime) \tag{21}
