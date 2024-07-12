@@ -57,3 +57,4 @@ next: introduction
 1. [前提となる知識](preliminaries)
    1. [剪断緩和時間と粘性](preliminaries/shear_viscosity)
    1. [拡散係数と Stokes-Einstein 則](preliminaries/diffusion)
+   1. [準安定な平衡状態？](preliminaries/metastable_equilibrium.md)
