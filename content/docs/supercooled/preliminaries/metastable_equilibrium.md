@@ -11,6 +11,7 @@ cascade:
 weight: 3
 math: true
 prev: diffusion
+next: crystal
 ---
 
 過冷却液体やガラスの物理学では、専門用語さえ普遍的に受け入れられているものではなく、危険な曖昧さを生みかねない。

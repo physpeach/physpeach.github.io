@@ -58,3 +58,5 @@ next: introduction
    1. [剪断緩和時間と粘性](preliminaries/shear_viscosity)
    1. [拡散係数と Stokes-Einstein 則](preliminaries/diffusion)
    1. [準安定な平衡状態？](preliminaries/metastable_equilibrium)
+1. [結晶化](crystal)
+   1. [核形成入門](crystal/nucleation)
