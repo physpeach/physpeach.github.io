@@ -76,7 +76,7 @@ $$
 \langle \eta(t)\eta(t^\prime)\rangle=2\zeta k_BT\delta(t-t^\prime) \tag{21}
 $$
 
-これは揺動散逸定理として知られている。
+これは静的な揺動散逸定理として知られている。
 この結果が主張するのは、ノイズ項$\eta$の起源と摩擦$\zeta$の起源は温度$T$の下で同じだ、ということだ\[[16](https://ar5iv.labs.arxiv.org/html/0903.4264#bib.bib16)\]。
 式(20, 21)を用いて、式(18)の右辺を計算できる。
 
