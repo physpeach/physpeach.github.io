@@ -76,3 +76,10 @@ params:
     list:
       displayCategories: true
       displayTags: true
+  displayUpdatedDate: true
+
+  comments:
+    enable: true
+    type: disqus
+    disqus:
+      shortname: physpeach-github-io
