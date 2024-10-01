@@ -1,7 +1,6 @@
 {{- $lang := site.Language.LanguageCode | default `en` -}}
 
 {{- with site.Params.comments.disqus -}}
-{{ warnf "message abc" }}
 <div id="disqus_thread" style="padding: 10px; background-color: #FFFFFF"></div>
 <script>
     /**
