@@ -22,7 +22,8 @@ keywords:
 - 初心者も経験者も大歓迎！
 - リスナーも大歓迎！
 
-詳細は[Homepage](https://sites.google.com/view/2nd-half-session)をご覧ください。
+詳細は以下を御覧ください。
+{{< card link="https://sites.google.com/view/2nd-half-session" title="Irish Trad. Session @2ND HALF" icon="music-note" >}}
 
 {{<figure src="/images/2nd_half_session.jpg" title="2ND HALFでのセッション" alt="パブでのセッションの写真" width="400">}}
 
