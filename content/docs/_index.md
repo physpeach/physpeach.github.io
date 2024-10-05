@@ -6,6 +6,7 @@ draft: false
 categories: [""]
 tags: [""]
 keywords:
+comments: false
 ---
 
 個人的に気になっているものについて、ある程度体系立てて書いています。

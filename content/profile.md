@@ -6,6 +6,7 @@ draft: false
 categories:
 tags:
 keywords:
+comments: false
 ---
 
 {{<figure src="/images/profile.jpg" alt="Masato Shukawa" width="300">}}
