@@ -47,6 +47,11 @@ menu:
       url: "https://twitter.com/physpeach"
       params:
         icon: twitter
+    - name: Instagram
+      weight: 7
+      url: "https://instagram.com/physpeach"
+      params:
+        icon: instagram
 
 params:
   navbar:
