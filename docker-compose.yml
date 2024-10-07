@@ -22,4 +22,4 @@ services:
       - '.:/src'
     ports:
       - '${PORT}:${PORT}'
-    command: 'server'
+    command: 'server --bind=0.0.0.0'
