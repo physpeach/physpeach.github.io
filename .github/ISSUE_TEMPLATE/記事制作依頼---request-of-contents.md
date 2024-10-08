@@ -1,7 +1,7 @@
 ---
 name: 記事制作依頼 / Request of contents
 about: Suggest an idea for this blog's contents
-title: ''
+title: '記事: '
 labels: documentation
 assignees: ''
 
