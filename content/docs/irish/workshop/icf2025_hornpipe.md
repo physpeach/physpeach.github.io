@@ -1,0 +1,52 @@
+---
+title: "Hornpipe 講座 | ICF 2025"
+date: 2025-01-13T13:26:07+09:00
+description:
+draft: false
+categories: [""]
+tags: [""]
+keywords:
+---
+
+主なテーマとして、Hornpipe のリズムに対する認識を根本的に見直すことで演奏の改善を皆さんと試みます。
+具体的には、「跳ねるリズム」 は Hornpipe の本質ではないということを実際に体験していきます。
+また、他のリズムと比較することでリズムの弾き分けができるようにします。
+
+- Hornpipe の捉え方
+- Reel, Barndance, Hornpipe の比較
+
+<!--more-->
+
+## 課題曲
+
+両方できるかわかりませんが、1 曲目を中心に旋律が追える程度に練習してみてください。
+
+ABC 譜で書かれているので、適宜 [https://editor.drawthedots.com](https://editor.drawthedots.com) 等で音を確認してください。
+
+### Mikey Callaghan's Hornpipe
+
+```
+X: 1
+T: Mickey Callaghan's Fancy
+K: Gmaj
+R: hornpipe
+M: 4/4
+L: 1/8
+Q: 160
+|:BA | GEDE GABA | GEDE GABc | dBeB dBGB | A2AG A2BA |
+     | GEDE GABA | GEDE GABc | dBeB dBGB | A2G2 G2  :|
+|:Bd | e4   edBd | d4   dBGB | c4   B2AG | EAAG A2BA |
+     | GEDE GABA | GEDE GABc | dBeB dBGB | A2G2 G2  :|
+```
+
+音源は全音下げの Bb/F コンサティーナを使っている点に気をつけてください。
+
+{{< card link="https://music.youtube.com/watch?v=eS0X6qLqfdM&si=7fJSQMIo5iv_t6rQ" title="The Humours Of Tullycrine / Mikey Callaghan's" subtitle="performed by Mary MacNamara" icon="music-note" >}}
+
+### 未定
+
+余力があればもう 1 曲扱います。
+
+## 講座内容
+
+Coming Soon...

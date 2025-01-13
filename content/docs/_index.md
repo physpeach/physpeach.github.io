@@ -13,6 +13,7 @@ comments: false
 
 {{< cards >}}
 {{< card link="supercooled" title="初学者のための過冷却液体(邦訳)" icon="newspaper" >}}
+{{< card link="irish" title="Irish Trad. Music" icon="music-note" >}}
 {{< card link="concertina" title="Concertina" icon="music-note" >}}
 {{< card link="https://physpeach.github.io/cuda-tutorial" title="CUDA Tutorial" icon="code" >}}
 {{< /cards >}}
