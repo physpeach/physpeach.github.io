@@ -51,6 +51,7 @@ Q: 160
 ### The Stack Of Rye
 
 私の好きなフィドラー兼作曲家の Jr. Crehan の曲です。
+
 音の長さに気を払い、リズムを重たく感じとって演奏してみてください。
 
 ```
@@ -66,6 +67,8 @@ Q: 160
 |: Bd | eaag a3b  | aged e3d  | egfa g3g  | gedB G2AB
       | c2ec BddB | ABAG E2ed | B2BA GABG | A2AG A2    :|
 ```
+
+サブスクリプションでは取り扱いがないのですが、[irishtune.info](https://www.irishtune.info/album/MMcNmr+3/)にて最初の 12 秒を聴くことができます。
 
 Jr. Crehan をご存知でなかったとしても、彼が The Mist Covered Mountain や The Stack Of Oats も作曲したといえば馴染み深く感じてくるのではないでしょうか。
 他にも素敵な曲をたくさん作っている人なので、興味が湧いてきたら曲集を手に取ってみても良いかもしれません。
