@@ -27,6 +27,7 @@ ABC 譜で書かれているので、適宜 [https://editor.drawthedots.com](htt
 ### The Glenbeigh (Barndance)
 
 名古屋の Shamrock セッションで頻出の Barndance です。
+
 個人的に、Barndance は楽しくコンサティーナを始めるのにピッタリのリズムだと思っているので採り上げました。
 Barndance は Reel よりもパルスが強いのが特徴です。それを踏まえて練習してみてください。
 
@@ -54,6 +55,7 @@ L: 1/8
 ### The Humours Of Carrigaholt (Reel)
 
 Dimpna O'Sullivan が好きなので、彼女の弾いている音源から採り上げました。
+
 装飾を差し込みやすい箇所がいくつもあるため、自分なりにアレンジを考えてみてください。
 
 ```
