@@ -24,7 +24,7 @@ keywords:
 
 ABC 譜で書かれているので、適宜 [https://editor.drawthedots.com](https://editor.drawthedots.com) 等で音を確認してください。
 
-### The Glenbeigh (Barndance)
+### The Glens Of Tara (Barndance)
 
 名古屋の Shamrock セッションで頻出の Barndance です。
 
@@ -33,16 +33,16 @@ Barndance は Reel よりもパルスが強いのが特徴です。それを踏�
 
 ```
 X: 1
-T: The Glenbeigh
+T: The Glens Of Tara
 K: Gmaj
 R: Barndance
 M: 2/2
 Q: 80
 L: 1/8
-|: GF | GABc defa | g2B2 d3B  | cBAB c3A  | BAGA BcBA |
-      | GABc defa | g2B2 d3B  | c2AB cAFG | AGGF G2  :|
-|: Bc | d2b2 c2a2 | Bggf gdBG | FGAB cAFA | G2GA BABc |
-      | d2b2 c2a2 | Bggf gdBG | FGAB cAFG | AGGF G2  :|
+|: Bc | d2G2 G2AB | c2E2 E2AG | FGAB cBcd | e2d2 B3c  |
+      | d2G2 G2AB | c2E2 E2AG | FGAB cAFG | AGGF G2  :|
+|: Bd | g4   f4   | efec A3G  | FGAB cBcd | e2d2 B3d  |
+      | g4   f4   | efec A3G  | FGAB cAFG | AGGF G2  :|
 ```
 
 サブスクリプションでは取り扱いがないのですが、[irishtune.info](https://www.irishtune.info/album/MMcNmr+3/)にて最初の 12 秒を聴くことができます。

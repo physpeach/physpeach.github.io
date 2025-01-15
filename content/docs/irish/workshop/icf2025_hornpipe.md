@@ -38,10 +38,10 @@ R: hornpipe
 M: 4/4
 L: 1/8
 Q: 160
-|: BA | GEDE GABA | GEDE GABc | dBeB dBGB | A2AG A2BA |
-      | GEDE GABA | GEDE GABc | dBeB dBGB | A2G2 G2  :|
-|: Bd | e4   edBd | d4   dBGB | c4   B2AG | EAAG A2BA |
-      | GEDE GABA | GEDE GABc | dBeB dBGB | A2G2 G2  :|
+|: BA | GE DE GA BA | GE DE GA Bc | dB eB dB GB | A2 AG A2 BA |
+      | GE DE GA BA | GE DE GA Bc | dB eB dB GB | A2 G2 G2   :|
+|: Bd | e4    ed Bd | d4    dB GB | c4    B2 AG | EA AG A2 BA |
+      | GE DE GA BA | GE DE GA Bc | dB eB dB GB | A2 G2 G2   :|
 ```
 
 音源は全音下げの Bb/F コンサティーナを使っている点に気をつけてください。
@@ -62,10 +62,10 @@ R: hornpipe
 M: 4/4
 L: 1/8
 Q: 160
-|: AB | c2ec BddB | ABAG E3D  | GABc dBeB | dBAB G2AB |
-      | c2ec BddB | ABAG E2ed | B2BA GABG | A2AG A2    :|
-|: Bd | eaag a3b  | aged e3d  | egfa g3g  | gedB G2AB
-      | c2ec BddB | ABAG E2ed | B2BA GABG | A2AG A2    :|
+|: AB | c2 ec Bd dB | AB AG E3D   | GA Bc dB eB | dB AB G2 AB |
+      | c2 ec Bd dB | AB AG E2 ed | B2 BA GA BG | A2 AG A2   :|
+|: Bd | ea ag a3b   | ag ed e3d   | eg fa g3g   | ge dB G2 AB |
+      | c2 ec Bd dB | AB AG E2 ed | B2 BA GA BG | A2 AG A2   :|
 ```
 
 サブスクリプションでは取り扱いがないのですが、[irishtune.info](https://www.irishtune.info/album/MMcNmr+3/)にて最初の 12 秒を聴くことができます。
