@@ -23,7 +23,7 @@ keywords:
 
 ABC 譜で書かれているので、適宜 [https://editor.drawthedots.com](https://editor.drawthedots.com) 等で音を確認してください。
 
-### Mikey Callaghan's Hornpipe
+### Mickey Callaghan's Fancy Hornpipe
 
 八木さんというコンサティーナ弾きから覚えました。
 また、 Mary MacNamara の Workshop でも採り上げられた曲です。
@@ -50,7 +50,7 @@ Q: 160
 
 ### The Stack Of Rye
 
-私の好きなフィドラー兼作曲家の Jr. Crehan の曲です。
+私の好きなフィドラー兼作曲家の Junior Crehan の曲です。
 
 音の長さに気を払い、リズムを重たく感じとって演奏してみてください。
 
@@ -62,15 +62,15 @@ R: hornpipe
 M: 4/4
 L: 1/8
 Q: 160
-|: AB | c2 ec Bd dB | AB AG E3D   | GA Bc dB eB | dB AB G2 AB |
+|: AB | c2 ec Bd dB | AB AG E2 ED | GA Bc dB eB | dB AB G2 AB |
       | c2 ec Bd dB | AB AG E2 ed | B2 BA GA BG | A2 AG A2   :|
-|: Bd | ea ag a3b   | ag ed e3d   | eg fa g3g   | ge dB G2 AB |
+|: Bd | ea ag a2-ab | ag ed e2-ed | eg fa g2-gg | ge dB G2 AB |
       | c2 ec Bd dB | AB AG E2 ed | B2 BA GA BG | A2 AG A2   :|
 ```
 
 サブスクリプションでは取り扱いがないのですが、[irishtune.info](https://www.irishtune.info/album/MMcNmr+3/)にて最初の 12 秒を聴くことができます。
 
-Jr. Crehan をご存知でなかったとしても、彼が The Mist Covered Mountain や The Stack Of Oats も作曲したといえば馴染み深く感じてくるのではないでしょうか。
+Junior Crehan をご存知でなかったとしても、彼が The Mist Covered Mountain や The Stack Of Oats も作曲したといえば馴染み深く感じてくるのではないでしょうか。
 他にも素敵な曲をたくさん作っている人なので、興味が湧いてきたら曲集を手に取ってみても良いかもしれません。
 
 ## 講座内容

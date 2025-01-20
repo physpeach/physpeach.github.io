@@ -54,7 +54,7 @@ L: 1/8
 
 ### The Humours Of Carrigaholt (Reel)
 
-Dimpna O'Sullivan が好きなので、彼女の弾いている音源から採り上げました。
+Dympna O'Sullivan が好きなので、彼女の弾いている音源から採り上げました。
 
 装飾を差し込みやすい箇所がいくつもあるため、自分なりにアレンジを考えてみてください。
 
