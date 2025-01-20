@@ -1,5 +1,5 @@
 ---
-title: "Irish"
+title: "Irish Trad. Music"
 date: 2025-01-13T13:27:37+09:00
 description:
 draft: false
