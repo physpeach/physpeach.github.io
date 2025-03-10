@@ -12,6 +12,7 @@ services:
       - '/etc/group:/etc/group:ro'
       - '/etc/passwd:/etc/passwd:ro'
       - '.:/src'
+    command: '--gc --minify --baseURL "https://physpeach.github.io"'
   server:
     user: '${UID}:${GID}'
     image: 'gh-pages:latest'
