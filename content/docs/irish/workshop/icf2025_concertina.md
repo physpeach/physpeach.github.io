@@ -40,7 +40,7 @@ ABC 譜で書かれているので、適宜 [https://editor.drawthedots.com](htt
 個人的に、Barndance は楽しくコンサティーナを始めるのにピッタリのリズムだと思っているので採り上げました。
 Barndance は Reel よりもパルスが強いのが特徴です。それを踏まえて練習してみてください。
 
-```
+```abc
 X: 1
 T: The Glens Of Tara
 K: Gmaj
@@ -67,7 +67,7 @@ Dympna O'Sullivan が好きなので、彼女の弾いている音源から採�
 
 装飾を差し込みやすい箇所がいくつもあるため、自分なりにアレンジを考えてみてください。
 
-```
+```abc
 X: 1
 T: The Humours Of Carrigaholt
 K: Dmaj
