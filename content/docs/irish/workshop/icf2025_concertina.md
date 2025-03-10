@@ -194,6 +194,10 @@ Mark Donellan が所属する Tulla Ceili Band や Martin Hayes, Mary MacNamara�
 
 参考にしつつ、ぜひ皆さん自身でも考えてみてほしいです。
 
+#### 更に良い演奏をするための考え方
+
+Coming Soon...
+
 #### リズム感練習法
 
 Coming Soon...
