@@ -128,4 +128,84 @@ L: 1/8
 
 {{<figure src="/images/202503/kamae-front.jpg" alt="正面から見た構え方" width="300">}}
 
+### 演奏に対する向き合い方
+
+アイリッシュを構成する要素で最も大事なのはまずはとにかくタイトな拍(: Pulse)、そして豊かな抑揚だと考えています。
+
+アイリッシュ音楽は伴奏なしのユニゾンで弾くダンス音楽として発展してきたので、一人で旋律とリズムを両立することが必要条件となっています。
+どれだけ速く弾けても、かっこいいアレンジを決めても、細かい装飾を入れても、リズムが崩れているなら弾いてないのと同じだといっても言い過ぎではないです。
+
+抑揚も絶対に見逃せない要素です。
+これは拍を構成するために必要なもの(: Lift)とそうでないものに分けることができます。
+特に Lift はアイリッシュの根幹を担っていると考えているので、ここはしっかり時間を使って向かい合ってみましょう。
+
+#### Pulse
+
+Pulse とは、一定の時間的な間隔を持って刻まれるリズムのことです。
+メトロノームの click! click! に合わせて練習している人もいることでしょう。
+まさにメトロノームで感じることができるものが Pulse です。
+
+また、これを規則的にいくつかまとめることで拍子になります。
+例えば Pulse が 2 つあれば 2 拍子、4 つあれば 4 拍子です。
+
+アイルランド音楽にも様々なリズムがありますが、まずはざっくりと拍子によって分類できます。
+Polka, Jig, Reel, Barndance などは 2 拍子、Waltz, Slip Jig, Hop Jig などは 3 拍子、そして Hornpipe, Slide, Fling などは 4 拍子です。
+ABC 譜っぽく視覚的に表すと以下のようになります。
+
+```txt
+x: 8分音符
+
+Polka    | xx xx | xx xx | ...             # 2/4 拍子
+Jig      | xxx xxx | xxx xxx | ...         # (3 + 3)/8 拍子
+Reel     | xxxx xxxx | xxxx xxxx | ...     # 2/2 拍子
+Hornpipe | xx xx xx xx | xx xx xx xx | ... # 4/4 拍子
+```
+
+Pulse を正確に刻み、拍子を意識して練習することはとても重要です。
+そのためにメトロノームを使うことについては私は大賛成です。
+後ほど効果的な練習法を紹介します。
+
+#### Lift
+
+先程も少し書いた通り、Lift とは、拍を構成し我々が感じ取るための要素として私は捉えています。
+
+元々はダンス用語のようで、現地の奏者は拍のことを指すときも一般的な pulse ではなく、しばしば lift を使っていました。
+以降私の推測ですが、pulse だと clap! で身体が沈み、 clap! と clap! の間に空白があるような感じがするのに対し、 liftはもっと連続的な抑揚を持っているからだと思います。
+
+Coming Soon...
+
+##### 紹介
+
+Mark Donellan が所属する Tulla Ceili Band や Martin Hayes, Mary MacNamaraのような奏者の演奏は特に強烈な Lift が特徴です。
+ぜひ聴いて身体が浮き上がる感覚に身を委ねてみてください。
+
+{{<youtube Y6SX2KYmwFs>}}
+
+{{<youtube Kynd6Kg0MCY>}}
+
+{{<youtube tVAzW5PNcu8>}}
+
+最後に、 Lift について議論が交わされている掲示板を紹介します。
+
+- [How do you define lift? | The Session](https://thesession.org/discussions/49806)
+- [Finding the lift | The Session](https://thesession.org/discussions/14869)
+- [The theory of lift | The Session](https://thesession.org/discussions/46539)
+- [Lift and swing Irish Rythmns | reddit](https://www.reddit.com/r/tinwhistle/comments/1aks2gn/lift_and_swing_irish_rythmns/)
+
+参考にしつつ、ぜひ皆さん自身でも考えてみてほしいです。
+
+#### リズム感練習法
+
+Coming Soon...
+
+### コンサティーナ特有のテクニック
+
+Coming Soon...
+
+#### 運指
+
+Coming Soon...
+
+#### 装飾
+
 Coming Soon...
