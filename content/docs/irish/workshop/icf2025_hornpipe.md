@@ -114,7 +114,7 @@ Hornpipe について、次のようなイメージを持っている人は多�
 これは、私が Feakle に行ったときに録音したセッションでの Hornpipe です。
 まずは少し聴いてみてください。
 
-{{< card link="https://drive.google.com/file/d/1IPJZr5ZbOzSkbXxwQwcgKXlksvo0XeFA/view?usp=drive_link" title="Pat O'Connor Session" icon="music-note" >}}
+{{< card link="https://drive.google.com/file/d/1WKENQBv8h9ys5RKzA2eb8dYcM9bfYNHS/view?usp=sharing" title="Pat O'Connor Session" icon="music-note" >}}
 
 恐らくみんなの想像ほど跳ねてないしゆったりでもないかもしれませんが、それでも間違いなく Hornpipe に聴こえるのではないかと思います。
 つまり、Hornpipe は跳ねやスピードだけで説明できるものではないということになります。
