@@ -14,14 +14,14 @@ comments: false
 {{< icon name="briefcase" attributes="height=1.2em">}}Software Acceleration Engineer
 
 コンサティーナが好きです。
-普段はCUDA/C++、最近は時々Pythonも触っています。
+普段は CUDA/C++、最近は時々 Python も触っています。
 
 ## Hobby
 
 ### Castle Grove Ceili Band
 
-友人とCastle Grove Ceili Band を結成し、活動しています。
-2025年結成、コンサーティーナ2台を中心とした編成のケーリーバンドで、伝統曲に加えてオリジナル曲も演奏しています。
+友人と Castle Grove Ceili Band を結成し、活動しています。
+2025 年結成、コンサーティーナ 2 台を中心とした編成のケーリーバンドで、伝統曲に加えてオリジナル曲も演奏しています。
 生演奏で踊る楽しさを東北から広げていくことを目指しています。
 
 詳細は以下を御覧ください。
@@ -50,7 +50,7 @@ comments: false
 
 | 年                      | 経歴                                                                                   |
 | ----------------------- | -------------------------------------------------------------------------------------- |
-| `Dec. 2022 -` | [株式会社フィックスターズ](https://fixstars.com/) 第一ソリューション事業部             |
+| `Dec. 2022 -`           | [株式会社フィックスターズ](https://fixstars.com/) 第一ソリューション事業部             |
 | `Apr. 2021 - Nov. 2022` | [ヴィスコ・テクノロジーズ株式会社](https://visco-tech.com/) 開発企画部                 |
 | `Apr. 2019 - Mar. 2021` | [名古屋大学理学研究科物質理学専攻非平衡物理研究室](https://www.r.phys.nagoya-u.ac.jp/) |
 | `Apr. 2015 - Mar. 2019` | [名古屋大学理学部物理学科](https://www.phys.nagoya-u.ac.jp/)                           |
