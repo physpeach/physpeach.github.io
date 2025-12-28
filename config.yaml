@@ -84,7 +84,7 @@ params:
   displayUpdatedDate: true
 
   comments:
-    enable: true
-    type: disqus
-    disqus:
-      shortname: physpeach-github-io
+    enable: false
+    # type: disqus
+    # disqus:
+    #   shortname: physpeach-github-io
