@@ -17,9 +17,9 @@ comments: false
 普段は CUDA/C++、最近は時々 Python も触っています。
 
 {{< cards >}}
-{{< card link="<https://instagram.com/physpeach>" title="Instagram" icon="instagram" >}}
-{{< card link="<https://x.com/physpeach>" title="Twitter" icon="twitter" >}}
-{{< card link="<https://facebook.com/masato.shukawa>" title="Facebook" icon="facebook" >}}
+{{< card link="https://instagram.com/physpeach" title="Instagram" icon="instagram" >}}
+{{< card link="https://x.com/physpeach" title="Twitter" icon="twitter" >}}
+{{< card link="https://facebook.com/masato.shukawa" title="Facebook" icon="facebook" >}}
 {{< /cards >}}
 
 ## Irish Music
@@ -35,7 +35,7 @@ comments: false
 生演奏で踊る楽しさを東北から広げていくことを目指しています。
 
 詳細は以下を御覧ください。
-{{< card link="<https://sites.google.com/view/datena-ceili>" title="伊達なケーリー" icon="music-note" >}}
+{{< card link="https://sites.google.com/view/datena-ceili" title="伊達なケーリー" icon="music-note" >}}
 
 {{<youtube a8mcUDuQAWw>}}
 
@@ -45,7 +45,7 @@ comments: false
 ワークショップ、セッション、ライブなど多くのイベントを開催します。
 
 詳細は以下をご覧ください。
-{{< card link="<https://sites.google.com/view/yatsugatake2026>" title="八ヶ岳アイリッシュ音楽フェスティバル 2026" icon="music-note" >}}
+{{< card link="https://sites.google.com/view/yatsugatake2026" title="八ヶ岳アイリッシュ音楽フェスティバル 2026" icon="music-note" >}}
 
 ### Irish Trad. Music Session
 
@@ -58,7 +58,7 @@ comments: false
 - リスナーも大歓迎！
 
 詳細は以下を御覧ください。
-{{< card link="<https://sites.google.com/view/2nd-half-session>" title="Irish Trad. Session @2ND HALF" icon="music-note" >}}
+{{< card link="https://sites.google.com/view/2nd-half-session" title="Irish Trad. Session @2ND HALF" icon="music-note" >}}
 
 {{<figure src="/images/2nd_half_session.jpg" title="2ND HALFでのセッション" alt="パブでのセッションの写真" width="400">}}
 
